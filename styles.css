@@ -427,7 +427,7 @@ footer{
 footer p{
   font-family:'IBM Plex Mono',monospace;
   font-size:10px;letter-spacing:.1em;
-  color:rgba(245,240,232,.25);
+  color:rgba(255,255,255);
 }
 footer a{
   font-family:'IBM Plex Mono',monospace;
